@@ -1,0 +1,14 @@
+com\join\publisher\config\WebConfig.class
+com\join\publisher\BackendApplication.class
+com\join\publisher\config\KafkaProducerConfig.class
+com\join\publisher\exceptions\ErrorResponse.class
+com\join\publisher\repositories\ClientRepository.class
+com\join\publisher\services\ClientPublisherService.class
+com\join\publisher\services\ClientService.class
+com\join\publisher\exceptions\GlobalExceptionHandler.class
+com\join\publisher\models\Client$ClientBuilder.class
+com\join\publisher\mapper\ClientMapperImpl.class
+com\join\publisher\controllers\ClientController.class
+com\join\publisher\models\Client.class
+com\join\publisher\utils\Utils.class
+com\join\publisher\mapper\ClientMapper.class

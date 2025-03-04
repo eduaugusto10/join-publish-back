@@ -1,0 +1,11 @@
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\BackendApplication.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\config\KafkaProducerConfig.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\config\WebConfig.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\controllers\ClientController.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\exceptions\GlobalExceptionHandler.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\mapper\ClientMapper.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\models\Client.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\repositories\ClientRepository.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\services\ClientPublisherService.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\services\ClientService.java
+C:\Users\eduau\OneDrive\Área de Trabalho\Teste\publisher-back\src\main\java\com\join\publisher\utils\Utils.java
